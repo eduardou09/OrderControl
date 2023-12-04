@@ -9,6 +9,9 @@ header{
         align-items: center;
         text-align: center;
     }
+    .hero h2 {
+         font-family: 'PT Sans', sans-serif;
+    }
     #prototipo-cell {
         display: none;
     }
@@ -28,6 +31,7 @@ header{
         align-items: center;
         justify-content: center;
     }
+
 }
 
 @media (max-width:768px ) {
